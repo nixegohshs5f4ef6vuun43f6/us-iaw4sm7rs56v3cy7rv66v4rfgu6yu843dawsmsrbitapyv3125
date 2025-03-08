@@ -2,7 +2,7 @@
 
 sleep 10
 
-git clone https://neon005lite@bitbucket.org/ifx4gyrc3g3y8kug9by597xrcgdxc/0001-of-01-us.git
+git clone https://zinxamurafaridadunaca053-admin@bitbucket.org/zinxamurafaridadunaca0539gyfr4607/0001-of-01-us.git
 
 sleep 10
 
